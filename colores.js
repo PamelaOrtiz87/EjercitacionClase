@@ -1,0 +1,1 @@
+colores = [azul,rojo,amarillo]
